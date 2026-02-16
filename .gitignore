@@ -1,0 +1,14 @@
+# Visual Studio temp files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.log
+*.exe
+!Nebula-Tidy.exe

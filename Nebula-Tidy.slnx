@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nebula-Tidy.vcxproj" Id="8bf603de-3079-4464-8d79-4a007c82ca1f" />
+</Solution>
